@@ -10,21 +10,13 @@
     Hi, I'm a Computer Science Engineer, from <b><font color="#19B5FE">INSEA Morocco</font></b><br>
     interested in <b><font color="#763568">Machine learning</font>, <font color="#763568">Deep learning</font></br></p>  
  <br>
- <br>
- 
-[<img src="https://img.shields.io/badge/LinkedIn-abdelkabir-jabbar-7831ab16b-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=a5e1ad&&color=a5e1ad"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-abdelkabir.jabbarjabbar@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]
-
-[linkedin]: https://www.linkedin.com/in/abdelkabir-jabbar-7831ab16b/
-[gmail]: mailto:abdelkabir.jabbarjabbar@gmail.com
-
-
-
-- 🔭 I’m currently working on phD thesis
+ - 🔭 I’m currently working on phD thesis
 - 🌱 I’m currently learning new skills
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with My projects
 - 💬 Ask me about hands on of Data science projects
+ <br>
+
 
 
 <p align="center">
@@ -32,4 +24,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=INNOVASE&theme=tokyonight" />
 </p>
 
-• Practical hands-on experience in Data analysis, Machine learning, Natural language processing, SQL, Python,R and Tableau.  • Well versed with Statistical concepts like Probability, Statistics, Inferential statistics, correlation.  • Good knowledge of writing SQL commands for database operations.  • Proficient in analyzing Data to identify problems and to provide additional context.  • Skilled in Machine Learning using Predictive modeling techniques such as Linear, Logistic, Decision Trees, Random Forest, SVM, KNN and XGBoost.  • Good familiarity with Numpy, Pandas, Sci-kit-learn, Tensor flow and K eras libraries in Python.  • Interested in analyzing large data-sets, forecasting, statistical modelling to understand customer behavior.  • An effective team player with good analytical, learning, interpersonal and problem solving skills.  📌 Highlighted expertise in:  -SQL  -Deep Learning  -Data Analytics  -Machine Learning  -Python Programming  -Natural language processing
+[<img src="https://img.shields.io/badge/LinkedIn-abdelkabirjabbar-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=a5e1ad&&color=a5e1ad"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-abdelkabir.jabbarjabbar@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]
+
+[linkedin]: https://www.linkedin.com/in/abdelkabir-jabbar-7831ab16b/
+[gmail]: mailto:abdelkabir.jabbarjabbar@gmail.com
